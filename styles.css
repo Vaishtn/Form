@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form {
+  text-align: center;
+  margin-left: 471px;
+  width: 327px;
+  height: 100px;
+  padding: 100px;
+  /* width: 300px; */
+
+  line-height: 2rem;
+  border: 1px solid black;
+}
+
+.profile {
+  line-height: 3rem;
+  border: 1px solid black;
+  margin-left: 403px;
+  width: 810px;
+  /* height: 100px;
+  padding: 100px; */
+}
+.profile-detail {
+  text-align: 60px;
+}
+.profile-detail1 {
+  margin-left: 2px;
+}
+.button-1 {
+  margin-left: 85%;
+}
